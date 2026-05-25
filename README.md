@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Alejandro 👋
 
-<!--
-**Alejo0997/Alejo0997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring IT Support Specialist & Cybersecurity Student  
+📍 Costa Rica | 🌐 Bilingual EN/ES (B2+)  
+💼 Former Amazon HR Rep | Now transitioning into IT & Security
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently learning
+- Networking fundamentals (TCP/IP, DNS, HTTP)
+- Linux & Windows administration basics
+- Cybersecurity concepts via TryHackMe
+- Google IT Support Certificate (in progress)
+
+## 📜 Certifications
+- ✅ TryHackMe — Pre Security
+- 🔄 Google IT Support — In progress
+
+## 🏆 Write-ups & Labs
+| Lab / Room | Platform | Category |
+|------------|----------|----------|
+| Pre Security | TryHackMe | Fundamentals |
+
+## 🛠️ Skills
+`Networking Basics` `Linux CLI` `Windows OS` 
+`Troubleshooting` `Ticketing Systems` `English B2+`
+`Customer Support` `Team Leadership`
+
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/alejandrolizano-madrigal-8b8200297)
